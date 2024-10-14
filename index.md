@@ -1,6 +1,6 @@
 ---
 title: Ubicación
-layout: Ubicación
+layout: Home
 ---
 tittle: Sobre nos
 layout: Sobre nos
