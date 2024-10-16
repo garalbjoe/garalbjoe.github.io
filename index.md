@@ -8,4 +8,4 @@ Nuestra granja se encuentra ubicada en el pueblo de [Monterroso](https://www.goo
 
 En nuestras instalaciones podreis gozar de una amplia categoria de huevos, los cuales se clasifican segun lo que cada gallina come, cada nave cuenta con 30000 metros cuadrados de almacenaje
 
-[sitio](https://www.pv-magazine.es/wp-content/uploads/sites/11/2019/12/2019.12.09-Efigalia-Val-do-Cango-1024x662.jpg)
+![sitio](https://www.pv-magazine.es/wp-content/uploads/sites/11/2019/12/2019.12.09-Efigalia-Val-do-Cango-1024x662.jpg)
