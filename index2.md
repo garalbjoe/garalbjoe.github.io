@@ -1,5 +1,5 @@
 ---
-title: Ubicación
+title: Sobre nuestro producto
 layout: home
 ---
 # Sobre nuestros productos
