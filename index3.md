@@ -1,7 +1,7 @@
 ---
 title: ¿Que comen nuestras pitas?
 layout: home
-parent: ¿Que comen nuestras pitas?
+parent: Mas información
 ---
 
 holaa
