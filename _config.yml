@@ -5,6 +5,8 @@ theme: just-the-docs
 
 url: https://garalbjoe.github.io/
 
+color_scheme: green
+
 nav_external_links:
   - title: Os millores ovos
     url: https://www.youtube.com/watch?app=desktop&v=BRvot4araGM
