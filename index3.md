@@ -1,5 +1,5 @@
 ---
-title: Ubicación
+title: Mas información
 layout: home
 parent: hola
 ---
