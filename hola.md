@@ -3,7 +3,7 @@ title: ¿Que comen nuestras pitas?
 layout: home
 ---
 
-Sobre su alimento
+# Sobre su alimento
 
 Nuestras pitas comen del mas selecto pienso importado de la chile lo cual enriquece el sabor de nuestros huevos
 
