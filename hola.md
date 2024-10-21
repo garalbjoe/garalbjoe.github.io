@@ -1,5 +1,5 @@
 ---
-title: ¿Que comen nuestras pitas?
+title: Mas información
 layout: home
 ---
 
