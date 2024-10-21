@@ -3,10 +3,10 @@ title: Sobre nuestro producto
 layout: home
 ---
 
-
-# Sobre nuestros productos
+Sobre nuestros productos
 
 ![pitas ccon menos de 12km](https://edualimentaria.com/images/huevos/huevos.jpg)
+
 
 - Nuestras gallinas se crían en libertad. Crecen felices en el campo gallego, donde corren, picotean, se dan baños de arena… Una crianza totalmente libre de estrés.
 - Su alimentación es 100% vegetal, con un 70% de cereales, de los que al menos un 50% es maíz.
