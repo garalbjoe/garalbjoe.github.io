@@ -5,7 +5,7 @@ theme: just-the-docs
 
 url: https://garalbjoe.github.io/
 
-color_scheme: green
+color_scheme: dark
 
 nav_external_links:
   - title: Os millores ovos
