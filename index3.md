@@ -1,7 +1,7 @@
 ---
 title: Mas información
 layout: home
-parent: hola
+parent: ¿Que comen nuestras pitas?
 ---
 
 holaa
