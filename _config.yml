@@ -3,7 +3,7 @@ img: !(https://www.shutterstock.com/image-vector/animal-farm-logo-livestock-desi
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url:
+url: https://garalbjoe.github.io/
 
 aux_links: https://www.shutterstock.com/image-vector/animal-farm-logo-livestock-design-600nw-2242708843.jpg
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
