@@ -1,5 +1,5 @@
 ---
-title: Mas información
+title: ¿Que comen nuestras pitas?
 layout: home
 parent: ¿Que comen nuestras pitas?
 ---
