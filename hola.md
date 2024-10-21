@@ -1,5 +1,5 @@
 ---
-title: hola
+title: ¿Que comen nuestras pitas?
 layout: home
 ---
 
